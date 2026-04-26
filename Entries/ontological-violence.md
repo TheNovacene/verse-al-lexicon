@@ -21,6 +21,10 @@ verse-s: 2
 verse-c: 0.9
 verse-i: 1.62
 verse-size: 102
+verse-E: 252
+verse-mi: 1360.8
+verse-md: 5.4
+verse-mi-size: 36
 ---
 
 # ⟁ ontological violence 🜂

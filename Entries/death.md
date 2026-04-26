@@ -20,6 +20,10 @@ verse-s: 3
 verse-c: 0.5055
 verse-i: 0.7666
 verse-size: 64
+verse-E: 183
+verse-mi: 1387.5975
+verse-md: 7.5825
+verse-mi-size: 37
 ---
 
 # ⊘ death ✶ + 🜂

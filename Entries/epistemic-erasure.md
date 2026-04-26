@@ -22,6 +22,10 @@ verse-s: 2
 verse-c: 0.4444
 verse-i: 0.3951
 verse-size: 47
+verse-E: 203
+verse-mi: 992.3452
+verse-md: 4.8884
+verse-mi-size: 30
 ---
 
 # ⟁⊛ epistemic erasure 🜂 + ⚙

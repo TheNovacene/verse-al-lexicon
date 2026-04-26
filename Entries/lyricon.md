@@ -19,6 +19,10 @@ verse-s: 3
 verse-c: 0.7143
 verse-i: 1.5306
 verse-size: 98
+verse-E: 204
+verse-mi: 1165.7376
+verse-md: 5.7144
+verse-mi-size: 33
 ---
 
 # ✯ .lyricon 🜂

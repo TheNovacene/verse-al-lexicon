@@ -19,6 +19,10 @@ verse-s: 37
 verse-c: 0.2949
 verse-i: 3.2183
 verse-size: 172
+verse-E: 295
+verse-mi: 3914.7975
+verse-md: 13.2705
+verse-mi-size: 78
 ---
 
 # ⧈ ritual 🜂

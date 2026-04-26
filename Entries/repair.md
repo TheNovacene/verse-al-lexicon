@@ -20,6 +20,10 @@ verse-s: 25
 verse-c: 0.4805
 verse-i: 5.771
 verse-size: 285
+verse-E: 370
+verse-mi: 5511.335
+verse-md: 14.8955
+verse-mi-size: 104
 ---
 
 # ⊛ repair ⚙ + 🜂

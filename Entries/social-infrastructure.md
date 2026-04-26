@@ -24,6 +24,10 @@ verse-s: 10
 verse-c: 0.5926
 verse-i: 3.5117
 verse-size: 185
+verse-E: 884
+verse-mi: 14668.0352
+verse-md: 16.5928
+verse-mi-size: 254
 ---
 
 # ⧊ social infrastructure ⚙ + 🜂 + ✶

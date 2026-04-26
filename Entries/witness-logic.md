@@ -21,6 +21,10 @@ verse-s: 15
 verse-c: 0.4392
 verse-i: 2.8928
 verse-size: 158
+verse-E: 352
+verse-mi: 4483.3536
+verse-md: 12.7368
+verse-mi-size: 87
 ---
 
 # ⧈ witness logic ⚙ + 🜂

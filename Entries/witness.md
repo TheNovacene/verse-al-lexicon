@@ -20,6 +20,10 @@ verse-s: 23
 verse-c: 0.431
 verse-i: 4.2732
 verse-size: 219
+verse-E: 361
+verse-mi: 4667.73
+verse-md: 12.93
+verse-mi-size: 90
 ---
 
 # ⧈ witness ⚙ + 🜂

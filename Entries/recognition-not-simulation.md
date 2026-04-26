@@ -23,6 +23,10 @@ verse-s: 14
 verse-c: 0.5231
 verse-i: 3.8305
 verse-size: 199
+verse-E: 669
+verse-mi: 9448.7553
+verse-md: 14.1237
+verse-mi-size: 169
 ---
 
 # ⧈ recognition, not simulation ⚙ + 🜂 + ✶

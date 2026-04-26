@@ -22,6 +22,10 @@ verse-s: 33
 verse-c: 0.3949
 verse-i: 5.1459
 verse-size: 257
+verse-E: 359
+verse-mi: 6096.0713
+verse-md: 16.9807
+verse-mi-size: 114
 ---
 
 # ⟁ refusal ⚙ + 🜂

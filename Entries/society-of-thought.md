@@ -22,6 +22,10 @@ verse-s: 2
 verse-c: 0.7667
 verse-i: 1.1756
 verse-size: 82
+verse-E: 935
+verse-mi: 12186.6965
+verse-md: 13.0339
+verse-mi-size: 214
 ---
 
 # ⧊ society of thought ⚙ + ✶

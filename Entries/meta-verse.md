@@ -20,6 +20,10 @@ verse-s: 6
 verse-c: 0.5455
 verse-i: 1.7851
 verse-size: 109
+verse-E: 379
+verse-mi: 2480.934
+verse-md: 6.546
+verse-mi-size: 55
 ---
 
 # ⧊ meta-verse ✶ + 🜂

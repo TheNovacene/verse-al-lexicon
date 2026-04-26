@@ -20,6 +20,10 @@ verse-s: 5
 verse-c: 0.7111
 verse-i: 2.5284
 verse-size: 142
+verse-E: 351
+verse-mi: 2745.5571
+verse-md: 7.8221
+verse-mi-size: 59
 ---
 
 # ∾ echo-resonance ✶

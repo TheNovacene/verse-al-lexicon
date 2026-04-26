@@ -19,6 +19,10 @@ verse-s: 14
 verse-c: 0.5524
 verse-i: 4.2717
 verse-size: 219
+verse-E: 288
+verse-mi: 3500.0064
+verse-md: 12.1528
+verse-mi-size: 71
 ---
 
 # ⧈ invitation 🜂

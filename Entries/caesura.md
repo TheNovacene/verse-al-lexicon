@@ -20,6 +20,10 @@ verse-s: 4
 verse-c: 0.5083
 verse-i: 1.0336
 verse-size: 76
+verse-E: 352
+verse-mi: 3041.6672
+verse-md: 8.6411
+verse-mi-size: 64
 ---
 
 # ⊘ caesura ⚙ + 🜂

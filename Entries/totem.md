@@ -20,6 +20,10 @@ verse-s: 7
 verse-c: 0.6286
 verse-i: 2.7657
 verse-size: 152
+verse-E: 380
+verse-mi: 3821.888
+verse-md: 10.0576
+verse-mi-size: 77
 ---
 
 # ⊙ totem ⚙ + 🜂

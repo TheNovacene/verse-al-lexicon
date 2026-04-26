@@ -21,6 +21,10 @@ verse-s: 0
 verse-c: 0.5105
 verse-i: 0.0
 verse-size: 30
+verse-E: 466
+verse-mi: 4995.753
+verse-md: 10.7205
+verse-mi-size: 96
 ---
 
 # 🌍 Gaian container ✶ + 🜂

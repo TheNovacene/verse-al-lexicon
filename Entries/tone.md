@@ -19,6 +19,10 @@ verse-s: 15
 verse-c: 0.5065
 verse-i: 3.848
 verse-size: 200
+verse-E: 289
+verse-mi: 3366.7055
+verse-md: 11.6495
+verse-mi-size: 69
 ---
 
 # ⟡ tone 🜂

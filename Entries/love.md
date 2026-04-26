@@ -22,6 +22,10 @@ verse-s: 12
 verse-c: 0.4971
 verse-i: 2.965
 verse-size: 161
+verse-E: 226
+verse-mi: 2246.892
+verse-md: 9.942
+verse-mi-size: 51
 ---
 
 # ✧ love ✶ + 🜂

@@ -22,6 +22,10 @@ verse-s: 9
 verse-c: 0.4571
 verse-i: 1.8808
 verse-size: 113
+verse-E: 318
+verse-mi: 3197.8716
+verse-md: 10.0562
+verse-mi-size: 66
 ---
 
 # ⧊ SYGMA ⚙ + ✶

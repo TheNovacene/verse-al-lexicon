@@ -23,6 +23,10 @@ verse-s: 8
 verse-c: 0.6838
 verse-i: 3.7406
 verse-size: 195
+verse-E: 926
+verse-mi: 15196.7712
+verse-md: 16.4112
+verse-mi-size: 263
 ---
 
 # ⧈ sovereign-node ⚙ + 🜂 + ✶

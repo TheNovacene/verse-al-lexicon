@@ -19,6 +19,10 @@ verse-s: 4
 verse-c: 0.6889
 verse-i: 1.8983
 verse-size: 114
+verse-E: 342
+verse-mi: 2591.6418
+verse-md: 7.5779
+verse-mi-size: 57
 ---
 
 # ⊚ verse-lang ⚙

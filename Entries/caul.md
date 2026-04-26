@@ -20,6 +20,10 @@ verse-s: 5
 verse-c: 0.5769
 verse-i: 1.6642
 verse-size: 103
+verse-E: 319
+verse-mi: 2576.4354
+verse-md: 8.0766
+verse-mi-size: 56
 ---
 
 # ⊛ caul ✶ + 🜂

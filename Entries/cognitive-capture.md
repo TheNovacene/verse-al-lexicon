@@ -20,6 +20,10 @@ verse-s: 6
 verse-c: 0.6111
 verse-i: 2.2407
 verse-size: 129
+verse-E: 243
+verse-mi: 1484.973
+verse-md: 6.111
+verse-mi-size: 38
 ---
 
 # ⧈ cognitive capture ⚙

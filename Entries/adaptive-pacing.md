@@ -20,6 +20,10 @@ verse-s: 2
 verse-c: 0.6813
 verse-i: 0.9284
 verse-size: 71
+verse-E: 346
+verse-mi: 3535.947
+verse-md: 10.2195
+verse-mi-size: 72
 ---
 
 # ⊛ adaptive pacing ✶

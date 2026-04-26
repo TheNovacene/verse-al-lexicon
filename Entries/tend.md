@@ -20,6 +20,10 @@ verse-s: 6
 verse-c: 0.5221
 verse-i: 1.6353
 verse-size: 102
+verse-E: 335
+verse-mi: 3148.263
+verse-md: 9.3978
+verse-mi-size: 66
 ---
 
 # ⟡ tend ✶ + 🜂

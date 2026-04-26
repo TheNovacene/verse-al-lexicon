@@ -22,6 +22,10 @@ verse-s: 16
 verse-c: 0.4418
 verse-i: 3.123
 verse-size: 168
+verse-E: 356
+verse-mi: 4561.1432
+verse-md: 12.8122
+verse-mi-size: 89
 ---
 
 # ✾ contain.verse() ⚙ + 🜂

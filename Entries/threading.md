@@ -19,6 +19,10 @@ verse-s: 1
 verse-c: 0.525
 verse-i: 0.2756
 verse-size: 42
+verse-E: 378
+verse-mi: 3373.65
+verse-md: 8.925
+verse-mi-size: 69
 ---
 
 # ∾ threading 🜂

@@ -20,6 +20,10 @@ verse-s: 11
 verse-c: 0.5221
 verse-i: 2.998
 verse-size: 162
+verse-E: 328
+verse-mi: 3082.4784
+verse-md: 9.3978
+verse-mi-size: 65
 ---
 
 # ⊘ closure ⚙ + 🜂

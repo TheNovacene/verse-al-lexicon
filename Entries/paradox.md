@@ -21,6 +21,10 @@ verse-s: 12
 verse-c: 0.5752
 verse-i: 3.9698
 verse-size: 205
+verse-E: 372
+verse-mi: 4065.5136
+verse-md: 10.9288
+verse-mi-size: 81
 ---
 
 # ⊛ paradox 🜂 + ⚙

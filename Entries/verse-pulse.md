@@ -20,6 +20,10 @@ verse-s: 8
 verse-c: 0.5333
 verse-i: 2.2756
 verse-size: 130
+verse-E: 311
+verse-mi: 2653.7008
+verse-md: 8.5328
+verse-mi-size: 58
 ---
 
 # ⋁ verse pulse ⚙ + 🜂

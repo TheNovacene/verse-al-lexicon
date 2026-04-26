@@ -23,6 +23,10 @@ verse-s: 16
 verse-c: 0.5926
 verse-i: 5.6187
 verse-size: 278
+verse-E: 817
+verse-mi: 14040.4718
+verse-md: 17.1854
+verse-mi-size: 244
 ---
 
 # ⧈ boundaried reciprocity ⚙ + 🜂 + ✶

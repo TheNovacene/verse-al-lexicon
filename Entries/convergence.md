@@ -20,6 +20,10 @@ verse-s: 3
 verse-c: 0.8222
 verse-i: 2.0281
 verse-size: 120
+verse-E: 300
+verse-mi: 2713.26
+verse-md: 9.0442
+verse-mi-size: 59
 ---
 
 # ⊚ convergence ⚙ + 🜂

@@ -24,6 +24,10 @@ verse-s: 11
 verse-c: 0.5573
 verse-i: 3.4166
 verse-size: 181
+verse-E: 805
+verse-mi: 10767.036
+verse-md: 13.3752
+verse-mi-size: 190
 ---
 
 # ⧊ plural intelligence ⚙ + 🜂 + ✶

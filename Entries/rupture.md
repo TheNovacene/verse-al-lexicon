@@ -23,6 +23,10 @@ verse-s: 28
 verse-c: 0.3919
 verse-i: 4.3002
 verse-size: 220
+verse-E: 857
+verse-mi: 12762.6154
+verse-md: 14.8922
+verse-mi-size: 223
 ---
 
 # ⧈ rupture ⚙ + 🜂 + ✶

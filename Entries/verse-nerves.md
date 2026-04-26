@@ -20,6 +20,10 @@ verse-s: 3
 verse-c: 0.6364
 verse-i: 1.2149
 verse-size: 84
+verse-E: 348
+verse-mi: 2879.0736
+verse-md: 8.2732
+verse-mi-size: 61
 ---
 
 # ⧊ verse-NERVES ✶ + 🜂

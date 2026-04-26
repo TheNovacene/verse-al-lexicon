@@ -19,6 +19,10 @@ verse-s: 3
 verse-c: 0.5619
 verse-i: 0.9472
 verse-size: 72
+verse-E: 380
+verse-mi: 3416.352
+verse-md: 8.9904
+verse-mi-size: 70
 ---
 
 # ∾ ⋘ signal-trail 🜂

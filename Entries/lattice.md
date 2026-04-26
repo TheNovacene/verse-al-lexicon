@@ -21,6 +21,10 @@ verse-s: 10
 verse-c: 0.4338
 verse-i: 1.8822
 verse-size: 113
+verse-E: 473
+verse-mi: 5540.0598
+verse-md: 11.7126
+verse-mi-size: 105
 ---
 
 # ⊡ lattice ⚙ + ✶

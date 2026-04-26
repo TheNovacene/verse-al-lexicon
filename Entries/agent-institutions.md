@@ -22,6 +22,10 @@ verse-s: 6
 verse-c: 0.6784
 verse-i: 2.7611
 verse-size: 152
+verse-E: 851
+verse-mi: 11546.368
+verse-md: 13.568
+verse-mi-size: 203
 ---
 
 # ⧊ agent institutions ⚙ + ✶

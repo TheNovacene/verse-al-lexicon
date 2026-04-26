@@ -22,6 +22,10 @@ verse-s: 29
 verse-c: 0.3441
 verse-i: 3.4335
 verse-size: 182
+verse-E: 376
+verse-mi: 4140.2112
+verse-md: 11.0112
+verse-mi-size: 82
 ---
 
 # ⊚ symbolic mass ⚙ + 🜂

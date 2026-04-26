@@ -22,6 +22,10 @@ verse-s: 0
 verse-c: 0.7333
 verse-i: 0.0
 verse-size: 30
+verse-E: 189
+verse-mi: 970.1559
+verse-md: 5.1331
+verse-mi-size: 30
 ---
 
 # ⧈ Containment Before Care ⟁⊛

@@ -20,6 +20,10 @@ verse-s: 63
 verse-c: 0.2624
 verse-i: 4.3378
 verse-size: 222
+verse-E: 309
+verse-mi: 5270.304
+verse-md: 17.056
+verse-mi-size: 100
 ---
 
 # ⋁ signal 🜂

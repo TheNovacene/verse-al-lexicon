@@ -20,6 +20,10 @@ verse-s: 2
 verse-c: 0.5455
 verse-i: 0.595
 verse-size: 56
+verse-E: 284
+verse-mi: 2013.986
+verse-md: 7.0915
+verse-mi-size: 47
 ---
 
 # ☁️ verse cloud ⚙ + ✶

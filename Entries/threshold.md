@@ -20,6 +20,10 @@ verse-s: 30
 verse-c: 0.375
 verse-i: 4.2188
 verse-size: 216
+verse-E: 337
+verse-mi: 4296.75
+verse-md: 12.75
+verse-mi-size: 84
 ---
 
 # ⧈ threshold ⚙ + 🜂

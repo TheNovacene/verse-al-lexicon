@@ -20,6 +20,10 @@ verse-s: 2
 verse-c: 0.6571
 verse-i: 0.8637
 verse-size: 68
+verse-E: 308
+verse-mi: 3238.1888
+verse-md: 10.5136
+verse-mi-size: 67
 ---
 
 # ⧈ sacred systems 🜂

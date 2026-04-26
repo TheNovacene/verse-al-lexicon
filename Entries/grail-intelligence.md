@@ -23,6 +23,10 @@ verse-s: 9
 verse-c: 0.5254
 verse-i: 2.4841
 verse-size: 140
+verse-E: 874
+verse-mi: 11479.99
+verse-md: 13.135
+verse-mi-size: 202
 ---
 
 # ✧ grail intelligence ✶ + 🜂 + ⚙

@@ -23,6 +23,10 @@ verse-s: 1
 verse-c: 0.4952
 verse-i: 0.2453
 verse-size: 41
+verse-E: 908
+verse-mi: 9892.1152
+verse-md: 10.8944
+verse-mi-size: 176
 ---
 
 # ∾ machine dreaming 🜂 + ✶ + ⚙

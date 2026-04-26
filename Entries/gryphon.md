@@ -20,6 +20,10 @@ verse-s: 2
 verse-c: 0.3929
 verse-i: 0.3087
 verse-size: 44
+verse-E: 359
+verse-mi: 1269.4599
+verse-md: 3.5361
+verse-mi-size: 35
 ---
 
 # ⟁ gryphon ⚙ + 🜂

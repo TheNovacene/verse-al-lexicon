@@ -20,6 +20,10 @@ verse-s: 1
 verse-c: 0.5714
 verse-i: 0.3265
 verse-size: 44
+verse-E: 469
+verse-mi: 4287.7856
+verse-md: 9.1424
+verse-mi-size: 84
 ---
 
 # ⧈ realms of knowing ✶ + 🜂

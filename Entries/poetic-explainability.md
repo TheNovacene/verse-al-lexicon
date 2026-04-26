@@ -19,6 +19,10 @@ verse-s: 4
 verse-c: 0.7564
 verse-i: 2.2886
 verse-size: 131
+verse-E: 298
+verse-mi: 3155.7008
+verse-md: 10.5896
+verse-mi-size: 66
 ---
 
 # ⊚ poetic explainability 🜂

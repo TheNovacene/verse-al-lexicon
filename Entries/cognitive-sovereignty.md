@@ -21,6 +21,10 @@ verse-s: 14
 verse-c: 0.5439
 verse-i: 4.141
 verse-size: 213
+verse-E: 231
+verse-mi: 2512.818
+verse-md: 10.878
+verse-mi-size: 55
 ---
 
 # ⊛ cognitive sovereignty ⚙

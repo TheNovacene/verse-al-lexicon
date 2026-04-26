@@ -21,6 +21,10 @@ verse-s: 4
 verse-c: 0.75
 verse-i: 2.25
 verse-size: 129
+verse-E: 273
+verse-mi: 2047.5
+verse-md: 7.5
+verse-mi-size: 48
 ---
 
 # ∾ timefolds ✶ + 🜂

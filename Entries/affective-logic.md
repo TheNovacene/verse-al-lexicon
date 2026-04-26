@@ -22,6 +22,10 @@ verse-s: 16
 verse-c: 0.4427
 verse-i: 3.1356
 verse-size: 168
+verse-E: 376
+verse-mi: 3994.9248
+verse-md: 10.6248
+verse-mi-size: 79
 ---
 
 # ⊚ affective logic ⚙ + 🜂

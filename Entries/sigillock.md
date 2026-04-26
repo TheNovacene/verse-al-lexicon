@@ -19,6 +19,10 @@ verse-s: 19
 verse-c: 0.4302
 verse-i: 3.5164
 verse-size: 185
+verse-E: 365
+verse-mi: 4396.644
+verse-md: 12.0456
+verse-mi-size: 86
 ---
 
 # ⊛ sigillock ⚙

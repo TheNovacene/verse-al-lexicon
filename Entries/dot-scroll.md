@@ -19,6 +19,10 @@ verse-s: 2
 verse-c: 0.3917
 verse-i: 0.3068
 verse-size: 44
+verse-E: 365
+verse-mi: 2430.4985
+verse-md: 6.6589
+verse-mi-size: 54
 ---
 
 # ⧈ .scroll ⚙

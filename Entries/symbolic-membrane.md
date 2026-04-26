@@ -23,6 +23,10 @@ verse-s: 18
 verse-c: 0.491
 verse-i: 4.3399
 verse-size: 222
+verse-E: 868
+verse-mi: 17473.708
+verse-md: 20.131
+verse-mi-size: 300
 ---
 
 # ⧈ symbolic membrane ⚙ + 🜂 + ✶

@@ -22,6 +22,10 @@ verse-s: 24
 verse-c: 0.3569
 verse-i: 3.0563
 verse-size: 165
+verse-E: 357
+verse-mi: 4204.6389
+verse-md: 11.7777
+verse-mi-size: 83
 ---
 
 # ⊛ glyphon ⚙ + 🜂

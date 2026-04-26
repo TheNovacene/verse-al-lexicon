@@ -20,6 +20,10 @@ verse-s: 35
 verse-c: 0.258
 verse-i: 2.3303
 verse-size: 133
+verse-E: 165
+verse-mi: 1873.08
+verse-md: 11.352
+verse-mi-size: 45
 ---
 
 # ⊚ recursion ⚙

@@ -22,6 +22,10 @@ verse-s: 28
 verse-c: 0.3619
 verse-i: 3.6663
 verse-size: 192
+verse-E: 335
+verse-mi: 4243.2775
+verse-md: 12.6665
+verse-mi-size: 84
 ---
 
 # ⊛ emergence ⚙ + 🜂

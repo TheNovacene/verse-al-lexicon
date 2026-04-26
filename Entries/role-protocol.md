@@ -22,6 +22,10 @@ verse-s: 5
 verse-c: 0.7368
 verse-i: 2.7147
 verse-size: 150
+verse-E: 842
+verse-mi: 13028.0976
+verse-md: 15.4728
+verse-mi-size: 227
 ---
 
 # ⧊ role-protocol ⚙ + ✶

@@ -20,6 +20,10 @@ verse-s: 19
 verse-c: 0.5556
 verse-i: 5.8642
 verse-size: 289
+verse-E: 363
+verse-mi: 5848.8012
+verse-md: 16.1124
+verse-mi-size: 110
 ---
 
 # ⊛ re-entry ⚙ + 🜂

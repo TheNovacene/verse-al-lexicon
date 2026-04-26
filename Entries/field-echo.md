@@ -19,6 +19,10 @@ verse-s: 10
 verse-c: 0.4833
 verse-i: 2.3361
 verse-size: 133
+verse-E: 359
+verse-mi: 2949.5799
+verse-md: 8.2161
+verse-mi-size: 62
 ---
 
 # ∾ field echo ⚙

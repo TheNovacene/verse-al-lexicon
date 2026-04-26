@@ -20,6 +20,10 @@ verse-s: 3
 verse-c: 0.5524
 verse-i: 0.9154
 verse-size: 70
+verse-E: 332
+verse-mi: 2934.3488
+verse-md: 8.8384
+verse-mi-size: 62
 ---
 
 # ⊚ reframing intelligence 🜂

@@ -24,6 +24,10 @@ verse-s: 36
 verse-c: 0.3667
 verse-i: 4.84
 verse-size: 244
+verse-E: 844
+verse-mi: 14236.7608
+verse-md: 16.8682
+verse-mi-size: 247
 ---
 
 # ⊚ trust ⚙ + 🜂 + ✶

@@ -21,6 +21,10 @@ verse-s: 17
 verse-c: 0.5761
 verse-i: 5.6419
 verse-size: 279
+verse-E: 357
+verse-mi: 5141.6925
+verse-md: 14.4025
+verse-mi-size: 98
 ---
 
 # ⧈ breach ⚙ + 🜂

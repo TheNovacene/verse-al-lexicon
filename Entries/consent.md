@@ -22,6 +22,10 @@ verse-s: 28
 verse-c: 0.3601
 verse-i: 3.6302
 verse-size: 190
+verse-E: 167
+verse-mi: 2104.7845
+verse-md: 12.6035
+verse-mi-size: 49
 ---
 
 # ⟁ consent ✶ + 🜂

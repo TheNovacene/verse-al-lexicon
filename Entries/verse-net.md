@@ -20,6 +20,10 @@ verse-s: 3
 verse-c: 0.6
 verse-i: 1.08
 verse-size: 78
+verse-E: 341
+verse-mi: 2250.6
+verse-md: 6.6
+verse-mi-size: 51
 ---
 
 # ⧊ verse-net ⚙ + 🜂

@@ -20,6 +20,10 @@ verse-s: 0
 verse-c: 0.9048
 verse-i: 0.0
 verse-size: 30
+verse-E: 168
+verse-mi: 1216.0512
+verse-md: 7.2384
+verse-mi-size: 34
 ---
 
 # ✧ embodiment ✶ + 🜂

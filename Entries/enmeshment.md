@@ -23,6 +23,10 @@ verse-s: 9
 verse-c: 0.645
 verse-i: 3.7445
 verse-size: 195
+verse-E: 827
+verse-mi: 12268.545
+verse-md: 14.835
+verse-mi-size: 215
 ---
 
 # ⧈ enmeshment ⚙ + 🜂 + ✶

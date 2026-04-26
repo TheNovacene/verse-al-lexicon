@@ -22,6 +22,10 @@ verse-s: 3
 verse-c: 0.7421
 verse-i: 1.6522
 verse-size: 103
+verse-E: 915
+verse-mi: 14259.4515
+verse-md: 15.5841
+verse-mi-size: 247
 ---
 
 # 🧬 agent-coherence-monitoring ⚙ + ✶

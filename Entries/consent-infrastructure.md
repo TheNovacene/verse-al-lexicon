@@ -24,6 +24,10 @@ verse-s: 26
 verse-c: 0.485
 verse-i: 6.1155
 verse-size: 300
+verse-E: 816
+verse-mi: 15038.88
+verse-md: 18.43
+verse-mi-size: 260
 ---
 
 # ⧈ consent infrastructure ⚙ + 🜂 + ✶

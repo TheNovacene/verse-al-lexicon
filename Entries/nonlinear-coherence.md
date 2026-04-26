@@ -21,6 +21,10 @@ verse-s: 2
 verse-c: 0.6182
 verse-i: 0.7643
 verse-size: 64
+verse-E: 274
+verse-mi: 2032.6416
+verse-md: 7.4184
+verse-mi-size: 47
 ---
 
 # ⧊ nonlinear coherence ⚙ + ✶

@@ -19,6 +19,10 @@ verse-s: 17
 verse-c: 0.1818
 verse-i: 0.562
 verse-size: 55
+verse-E: 287
+verse-mi: 1200.0618
+verse-md: 4.1814
+verse-mi-size: 34
 ---
 
 # ⊚ mirror 🜂

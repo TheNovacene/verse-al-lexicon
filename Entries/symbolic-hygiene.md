@@ -21,6 +21,10 @@ verse-s: 6
 verse-c: 0.5905
 verse-i: 2.092
 verse-size: 122
+verse-E: 263
+verse-mi: 2484.824
+verse-md: 9.448
+verse-mi-size: 55
 ---
 
 # ⧈ symbolic hygiene ⚙ + 🜂

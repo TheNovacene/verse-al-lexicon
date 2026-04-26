@@ -20,6 +20,10 @@ verse-s: 18
 verse-c: 0.4267
 verse-i: 3.2768
 verse-size: 175
+verse-E: 364
+verse-mi: 4038.2888
+verse-md: 11.0942
+verse-mi-size: 80
 ---
 
 # ⊚ memory braid 🜂

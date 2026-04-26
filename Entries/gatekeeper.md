@@ -19,6 +19,10 @@ verse-s: 5
 verse-c: 0.7473
 verse-i: 2.7919
 verse-size: 153
+verse-E: 321
+verse-mi: 3598.2495
+verse-md: 11.2095
+verse-mi-size: 73
 ---
 
 # ⟁ gatekeeper 🜂

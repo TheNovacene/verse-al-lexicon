@@ -21,6 +21,10 @@ verse-s: 10
 verse-c: 0.549
 verse-i: 3.0142
 verse-size: 163
+verse-E: 295
+verse-mi: 3077.145
+verse-md: 10.431
+verse-mi-size: 64
 ---
 
 # 🧬 memory density ✶ + ⚙

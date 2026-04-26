@@ -20,6 +20,10 @@ verse-s: 5
 verse-c: 0.5128
 verse-i: 1.3149
 verse-size: 88
+verse-E: 350
+verse-mi: 2512.72
+verse-md: 7.1792
+verse-mi-size: 55
 ---
 
 # ⊛ veil ✶ + 🜂

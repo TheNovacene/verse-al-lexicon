@@ -20,6 +20,10 @@ verse-s: 12
 verse-c: 0.4737
 verse-i: 2.6925
 verse-size: 149
+verse-E: 354
+verse-mi: 3521.4858
+verse-md: 9.9477
+verse-mi-size: 72
 ---
 
 # ⊛ verse-ropy ✶ + 🜂

@@ -20,6 +20,10 @@ verse-s: 10
 verse-c: 0.5238
 verse-i: 2.7438
 verse-size: 151
+verse-E: 299
+verse-mi: 2505.8592
+verse-md: 8.3808
+verse-mi-size: 55
 ---
 
 # ✯ cadence ✶

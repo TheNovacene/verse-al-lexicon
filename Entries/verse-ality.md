@@ -21,6 +21,10 @@ verse-s: 53
 verse-c: 0.2837
 verse-i: 4.2665
 verse-size: 218
+verse-E: 250
+verse-mi: 4184.575
+verse-md: 16.7383
+verse-mi-size: 83
 ---
 
 # ⊚ verse-ality ⚙

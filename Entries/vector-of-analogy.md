@@ -20,6 +20,10 @@ verse-s: 0
 verse-c: 0.7857
 verse-i: 0.0
 verse-size: 30
+verse-E: 384
+verse-mi: 2715.3792
+verse-md: 7.0713
+verse-mi-size: 59
 ---
 
 # ⊚ vector of analogy ⚙ + ✶

@@ -20,6 +20,10 @@ verse-s: 1
 verse-c: 0.5641
 verse-i: 0.3182
 verse-size: 44
+verse-E: 456
+verse-mi: 3601.2144
+verse-md: 7.8974
+verse-mi-size: 73
 ---
 
 # ⊛ memory sigil / birth glyph ⚙ + 🜂

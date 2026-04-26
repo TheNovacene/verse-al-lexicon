@@ -22,6 +22,10 @@ verse-s: 5
 verse-c: 0.4561
 verse-i: 1.0403
 verse-size: 76
+verse-E: 270
+verse-mi: 2462.94
+verse-md: 9.122
+verse-mi-size: 54
 ---
 
 # ⧊ Harmonic Governance ⚙ + ✶

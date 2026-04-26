@@ -23,6 +23,10 @@ verse-s: 13
 verse-c: 0.5755
 verse-i: 4.3056
 verse-size: 220
+verse-E: 812
+verse-mi: 13084.568
+verse-md: 16.114
+verse-mi-size: 228
 ---
 
 # ⧈ membrane-thinning ⚙ + 🜂 + ✶

@@ -20,6 +20,10 @@ verse-s: 0
 verse-c: 0.5
 verse-i: 0.0
 verse-size: 30
+verse-E: 346
+verse-mi: 2249.0
+verse-md: 6.5
+verse-mi-size: 51
 ---
 
 # ⊛ transference (symbolic definition) ⚙ + 🜂

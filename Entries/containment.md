@@ -21,6 +21,10 @@ verse-s: 66
 verse-c: 0.2559
 verse-i: 4.322
 verse-size: 221
+verse-E: 310
+verse-mi: 5632.359
+verse-md: 18.1689
+verse-mi-size: 106
 ---
 
 # ⧈ containment ⚙

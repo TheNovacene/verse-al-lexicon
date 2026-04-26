@@ -21,6 +21,10 @@ verse-s: 91
 verse-c: 0.2186
 verse-i: 4.3469
 verse-size: 222
+verse-E: 279
+verse-mi: 5611.0248
+verse-md: 20.1112
+verse-mi-size: 106
 ---
 
 # ⊚ coherence ⚙

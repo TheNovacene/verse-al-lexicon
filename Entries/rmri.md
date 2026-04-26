@@ -21,6 +21,10 @@ verse-s: 5
 verse-c: 0.5333
 verse-i: 1.4222
 verse-size: 93
+verse-E: 396
+verse-mi: 3378.9888
+verse-md: 8.5328
+verse-mi-size: 69
 ---
 
 # 🧬 RMRI (Relational MRI) ✶ + ⚙

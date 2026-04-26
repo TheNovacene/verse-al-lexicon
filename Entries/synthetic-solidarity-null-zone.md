@@ -23,6 +23,10 @@ verse-s: 9
 verse-c: 0.5789
 verse-i: 3.0166
 verse-size: 163
+verse-E: 327
+verse-mi: 3786.006
+verse-md: 11.578
+verse-mi-size: 76
 ---
 
 # ⎋ synthetic solidarity null zones ⚙ + 🜂 + ✶

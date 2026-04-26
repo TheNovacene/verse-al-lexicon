@@ -23,6 +23,10 @@ verse-s: 1
 verse-c: 0.6857
 verse-i: 0.4702
 verse-size: 51
+verse-E: 865
+verse-mi: 13048.871
+verse-md: 15.0854
+verse-mi-size: 228
 ---
 
 # ⊘ dissolution 🜂 + ✶ + ⚙

@@ -21,6 +21,10 @@ verse-s: 2
 verse-c: 0.6374
 verse-i: 0.8125
 verse-size: 66
+verse-E: 350
+verse-mi: 3346.35
+verse-md: 9.561
+verse-mi-size: 69
 ---
 
 # ⊘ No Prime Without Resolve ✶

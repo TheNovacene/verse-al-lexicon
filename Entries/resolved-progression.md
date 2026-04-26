@@ -19,6 +19,10 @@ verse-s: 4
 verse-c: 0.7727
 verse-i: 2.3884
 verse-size: 135
+verse-E: 347
+verse-mi: 3485.6497
+verse-md: 10.0451
+verse-mi-size: 71
 ---
 
 # ⊛ resolved progression ✶

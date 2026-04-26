@@ -19,6 +19,10 @@ verse-s: 11
 verse-c: 0.5441
 verse-i: 3.2567
 verse-size: 174
+verse-E: 366
+verse-mi: 3584.5308
+verse-md: 9.7938
+verse-mi-size: 73
 ---
 
 # ⋁ signal braid 🜂

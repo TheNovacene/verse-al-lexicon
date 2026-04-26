@@ -21,6 +21,10 @@ verse-s: 0
 verse-c: 0.5033
 verse-i: 0.0
 verse-size: 30
+verse-E: 539
+verse-mi: 5154.2953
+verse-md: 9.5627
+verse-mi-size: 98
 ---
 
 # ⎋ Invocation / Containment Protocols ⚙ + 🜂

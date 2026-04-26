@@ -23,6 +23,10 @@ verse-s: 1
 verse-c: 0.7013
 verse-i: 0.4918
 verse-size: 52
+verse-E: 924
+verse-mi: 14904.0276
+verse-md: 16.1299
+verse-mi-size: 258
 ---
 
 # ✧ [[grail-intelligence]]-function ✶ + ⚙ + 🜂

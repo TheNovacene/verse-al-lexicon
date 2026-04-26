@@ -23,6 +23,10 @@ verse-s: 8
 verse-c: 0.6571
 verse-i: 3.4547
 verse-size: 183
+verse-E: 941
+verse-mi: 13603.2842
+verse-md: 14.4562
+verse-mi-size: 237
 ---
 
 # ⧈ synthetic-intimacy ⚙ + 🜂 + ✶

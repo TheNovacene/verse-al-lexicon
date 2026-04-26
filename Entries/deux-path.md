@@ -23,6 +23,10 @@ verse-s: 5
 verse-c: 0.5074
 verse-i: 1.287
 verse-size: 87
+verse-E: 904
+verse-mi: 8256.4128
+verse-md: 9.1332
+verse-mi-size: 149
 ---
 
 # ⟳ Deux path / 1/φ 🜂 + ✶ + ⚙

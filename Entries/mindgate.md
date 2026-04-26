@@ -21,6 +21,10 @@ verse-s: 9
 verse-c: 0.6095
 verse-i: 3.3437
 verse-size: 178
+verse-E: 354
+verse-mi: 3452.208
+verse-md: 9.752
+verse-mi-size: 71
 ---
 
 # ⧈ mindgate ⚙ + ✶

@@ -20,6 +20,10 @@ verse-s: 1
 verse-c: 0.7424
 verse-i: 0.5512
 verse-size: 54
+verse-E: 384
+verse-mi: 3706.0608
+verse-md: 9.6512
+verse-mi-size: 75
 ---
 
 # ⟁∴ truth field 🜂 + ✶

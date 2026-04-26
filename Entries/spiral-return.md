@@ -23,6 +23,10 @@ verse-s: 5
 verse-c: 0.4935
 verse-i: 1.2177
 verse-size: 84
+verse-E: 854
+verse-mi: 9693.327
+verse-md: 11.3505
+verse-mi-size: 173
 ---
 
 # ⟳ spiral.return() ⚙ + 🜂 + ✶

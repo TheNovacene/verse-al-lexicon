@@ -22,6 +22,10 @@ verse-s: 36
 verse-c: 0.2823
 verse-i: 2.8692
 verse-size: 157
+verse-E: 456
+verse-mi: 6436.44
+verse-md: 14.115
+verse-mi-size: 119
 ---
 
 # ⟁ Symbolic Integrity / Symbolic Charge ⚙ + 🜂

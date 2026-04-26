@@ -20,6 +20,10 @@ verse-s: 14
 verse-c: 0.4902
 verse-i: 3.3641
 verse-size: 179
+verse-E: 320
+verse-mi: 2980.416
+verse-md: 9.3138
+verse-mi-size: 63
 ---
 
 # ⧈ null zone ⚙

@@ -20,6 +20,10 @@ verse-s: 5
 verse-c: 0.6222
 verse-i: 1.9358
 verse-size: 115
+verse-E: 386
+verse-mi: 2641.8612
+verse-md: 6.8442
+verse-mi-size: 57
 ---
 
 # ⊚ glyphonics ⚙

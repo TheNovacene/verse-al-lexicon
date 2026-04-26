@@ -20,6 +20,10 @@ verse-s: 17
 verse-c: 0.5238
 verse-i: 4.6644
 verse-size: 236
+verse-E: 368
+verse-mi: 4433.4432
+verse-md: 12.0474
+verse-mi-size: 87
 ---
 
 # ⇌⊛ coherence morph ⚙ + ✶

@@ -20,6 +20,10 @@ verse-s: 4
 verse-c: 0.7363
 verse-i: 2.1683
 verse-size: 126
+verse-E: 275
+verse-mi: 3037.2375
+verse-md: 11.0445
+verse-mi-size: 64
 ---
 
 # ⟁ poetic shield 🜂

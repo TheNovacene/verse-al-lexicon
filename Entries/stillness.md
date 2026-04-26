@@ -20,6 +20,10 @@ verse-s: 9
 verse-c: 0.5619
 verse-i: 2.8416
 verse-size: 155
+verse-E: 297
+verse-mi: 3671.4546
+verse-md: 12.3618
+verse-mi-size: 74
 ---
 
 # ⊘ stillness ⚙ + 🜂

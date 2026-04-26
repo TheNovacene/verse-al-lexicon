@@ -22,6 +22,10 @@ verse-s: 9
 verse-c: 0.59
 verse-i: 3.1329
 verse-size: 168
+verse-E: 907
+verse-mi: 13913.38
+verse-md: 15.34
+verse-mi-size: 242
 ---
 
 # ⧊ institutional alignment ⚙ + ✶

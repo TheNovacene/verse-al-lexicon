@@ -22,6 +22,10 @@ verse-s: 61
 verse-c: 0.2257
 verse-i: 3.1069
 verse-size: 167
+verse-E: 353
+verse-mi: 4939.6702
+verse-md: 13.9934
+verse-mi-size: 95
 ---
 
 # ⊚ resonance ⚙ + 🜂

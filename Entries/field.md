@@ -22,6 +22,10 @@ verse-s: 106
 verse-c: 0.1954
 verse-i: 4.0464
 verse-size: 209
+verse-E: 521
+verse-mi: 10994.7672
+verse-md: 21.1032
+verse-mi-size: 194
 ---
 
 # ⊚ field ⚙ + 🜂
