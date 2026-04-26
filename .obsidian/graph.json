@@ -1,0 +1,170 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#glyph/verse-core",
+      "color": {
+        "a": 1,
+        "rgb": 15055174
+      }
+    },
+    {
+      "query": "tag:#glyph/containment",
+      "color": {
+        "a": 1,
+        "rgb": 2972584
+      }
+    },
+    {
+      "query": "tag:#glyph/generation",
+      "color": {
+        "a": 1,
+        "rgb": 5219950
+      }
+    },
+    {
+      "query": "tag:#glyph/signal",
+      "color": {
+        "a": 1,
+        "rgb": 4177369
+      }
+    },
+    {
+      "query": "tag:#glyph/tending",
+      "color": {
+        "a": 1,
+        "rgb": 13864864
+      }
+    },
+    {
+      "query": "tag:#glyph/tending-flower",
+      "color": {
+        "a": 1,
+        "rgb": 15250628
+      }
+    },
+    {
+      "query": "tag:#glyph/integrity",
+      "color": {
+        "a": 1,
+        "rgb": 13126218
+      }
+    },
+    {
+      "query": "tag:#glyph/anchor",
+      "color": {
+        "a": 1,
+        "rgb": 9132604
+      }
+    },
+    {
+      "query": "tag:#glyph/meta-structure",
+      "color": {
+        "a": 1,
+        "rgb": 9064376
+      }
+    },
+    {
+      "query": "tag:#glyph/echo",
+      "color": {
+        "a": 1,
+        "rgb": 7062709
+      }
+    },
+    {
+      "query": "tag:#glyph/expression",
+      "color": {
+        "a": 1,
+        "rgb": 15569215
+      }
+    },
+    {
+      "query": "tag:#glyph/pause",
+      "color": {
+        "a": 1,
+        "rgb": 8751782
+      }
+    },
+    {
+      "query": "tag:#glyph/protocol",
+      "color": {
+        "a": 1,
+        "rgb": 8243859
+      }
+    },
+    {
+      "query": "tag:#glyph/distributed",
+      "color": {
+        "a": 1,
+        "rgb": 11061472
+      }
+    },
+    {
+      "query": "tag:#glyph/measurement",
+      "color": {
+        "a": 1,
+        "rgb": 13126282
+      }
+    },
+    {
+      "query": "tag:#glyph/planetary",
+      "color": {
+        "a": 1,
+        "rgb": 6063429
+      }
+    },
+    {
+      "query": "tag:#glyph/grail",
+      "color": {
+        "a": 1,
+        "rgb": 15782012
+      }
+    },
+    {
+      "query": "tag:#glyph/spiral",
+      "color": {
+        "a": 1,
+        "rgb": 5920949
+      }
+    },
+    {
+      "query": "tag:#glyph/lattice",
+      "color": {
+        "a": 1,
+        "rgb": 11579576
+      }
+    },
+    {
+      "query": "path:Foundational",
+      "color": {
+        "a": 1,
+        "rgb": 5066061
+      }
+    },
+    {
+      "query": "path:Maps",
+      "color": {
+        "a": 1,
+        "rgb": 14724687
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.16506944444444,
+  "lineSizeMultiplier": 0.896675347222222,
+  "collapse-forces": false,
+  "centerStrength": 0.793836805555556,
+  "repelStrength": 4.74479166666667,
+  "linkStrength": 0.869270833333333,
+  "linkDistance": 177,
+  "scale": 0.6115015468490034,
+  "close": false
+}

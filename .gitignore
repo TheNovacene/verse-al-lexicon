@@ -1,0 +1,24 @@
+# Per-machine Obsidian state — should not be shared
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache & temporary plugin state
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# macOS / OS junk
+.DS_Store
+*.swp
+
+# sed/editor backups
+*.bak
+*.orig
+*.rej
+*~
+
+# Tombstone from the iCloud move (no longer needed if vault is canonical here)
+WHERE THE VAULT WENT.txt
+
+# Daily/calendar notes (per-user)
+2026-*.md
+2025-*.md
