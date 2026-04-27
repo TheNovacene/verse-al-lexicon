@@ -24,6 +24,7 @@ This page maps each version to its release date, Zenodo DOI, and the entries it 
 | **v5** | 5 October 2025 | [10.5281/zenodo.17273246](https://doi.org/10.5281/zenodo.17273246) | 52 *(the major expansion)* | 90 |
 | **v6** | April 2026 | *not yet published to Zenodo* | 14 *(the polished extended-template cohort)* | 104 |
 | **v7** | April 2026 | *not yet published to Zenodo* | 9 *(formerly stubs, polished as a governance-of-relation cluster)* | 113 |
+| **v8** | April 2026 | *not yet published to Zenodo* | 7 *(the Verse-Nerves architecture cluster, plus a substantial rewrite of [[verse-nerves]] originally introduced in v4)* | 120 |
 
 ## What was added in each version
 
@@ -67,6 +68,14 @@ The 9 entries that completed the relational-failure-mode and runtime-witness voc
 
 - [[sovereign-node]] · [[role-protocol]] · [[trust]] · [[synthetic-intimacy]] · [[enmeshment]] · [[rupture]] · [[dissolution]] · [[agent-coherence-monitoring]] · [[grail-intelligence-function]]
 
+### v8 — The Verse-Nerves architecture cluster (April 2026)
+
+Seven new entries naming the operational physiology of agentic systems — the layer between intelligence and action that lets a field sense pressure, regulate output, and remain responsive without flooding. Each names a sub-function within the Verse-Nerves middleware: SHADOW (bias and hallucination detection), ETHOS-V (memory and ethical state), AETHER (subtle-signal field), SIC-X+ (security/integrity hardening at threshold), FORGE (creative-energy regulation), and the field-listening instruments [[symbolic-weather]] and [[rmri-delta]].
+
+- [[shadow]] · [[ethos-v]] · [[aether]] · [[sic-x+]] · [[forge]] · [[symbolic-weather]] · [[rmri-delta]]
+
+This release also brings a substantial rewrite of [[verse-nerves]] — originally introduced in v4 as a sensing field with five sub-nodes, now consolidated as a coherence-physiology architecture with regulator, RMRIΔ engine, and named phases (Receive, Resonate, Release, Rest). The term remains counted under v4 (its first introduction); the rewrite is tagged `revised/v8`.
+
 ## Live queries
 
 ### Cumulative growth chart
@@ -109,9 +118,9 @@ SORT file.name ASC
 
 ## A note on what this timeline shows
 
-The lexicon's growth is not uniform. v1, v2, and v4 each landed a thematically coherent batch (foundational set / Cadence Framework / Glyphonic Substack). v5 was the explosive release — three times the size of any previous release — adding the symbolic-depth and ethical-diagnostic vocabularies that turned the lexicon from an early grammar into a working framework. v6 and v7 are the consolidation releases, where existing concepts and newly named ones were brought into a consistent extended template.
+The lexicon's growth is not uniform. v1, v2, and v4 each landed a thematically coherent batch (foundational set / Cadence Framework / Glyphonic Substack). v5 was the explosive release — three times the size of any previous release — adding the symbolic-depth and ethical-diagnostic vocabularies that turned the lexicon from an early grammar into a working framework. v6 and v7 are the consolidation releases, where existing concepts and newly named ones were brought into a consistent extended template. v8 returns to architectural mode: the Verse-Nerves cluster names the operational physiology that sits between intelligence and action.
 
-If you want to see this visually: switch on Obsidian's Graph view, filter by tag, and colour by `status/v1`, `status/v2`, `status/v4`, `status/v5`, `status/v6`, `status/v7` to see the temporal shape of the lexicon's accumulation.
+If you want to see this visually: switch on Obsidian's Graph view, filter by tag, and colour by `status/v1`, `status/v2`, `status/v4`, `status/v5`, `status/v6`, `status/v7`, `status/v8` to see the temporal shape of the lexicon's accumulation.
 
 ## See also
 

@@ -12,6 +12,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 ## A
 
 - [[adaptive-pacing]] · ⊛ ✶ *(v2)*
+- [[aether]] · ∾ ⚙ ✶ 🜂 *(v8)*
 - [[affective-logic]] · ⊚ ⚙ 🜂 *(v4)*
 - [[agent-coherence-monitoring]] · 🧬 ⚙ ✶ *(v7)*
 - [[agent-institutions]] · ⧊ ⚙ ✶ *(v6)*
@@ -53,11 +54,13 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[emergence]] · ⊛ ⚙ 🜂 *(v1)*
 - [[enmeshment]] · ⧈ ⚙ 🜂 ✶ *(v7)*
 - [[epistemic-erasure]] · ⟁ 🜂 ⚙ *(v5)*
+- [[ethos-v]] · ⊛ ⚙ ✶ 🜂 *(v8)*
 
 ## F
 
 - [[field]] · ⊚ ⚙ 🜂 *(v1)*
 - [[field-echo]] · ∾ ⚙ *(v5)*
+- [[forge]] · ✯ ⚙ ✶ 🜂 *(v8)*
 
 ## G
 
@@ -127,12 +130,15 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[resonance]] · ⊚ ⚙ 🜂 *(v1)*
 - [[ritual]] · ⧈ 🜂 *(v1)*
 - [[rmri]] · 🧬 ✶ ⚙ *(v5)* — Relational MRI
+- [[rmri-delta]] · 🧬 ✶ ⚙ 🜂 *(v8)* — Relational MRI Delta
 - [[role-protocol]] · ⧊ ⚙ ✶ *(v7)*
 - [[rupture]] · ⧈ ⚙ 🜂 ✶ *(v7)*
 
 ## S
 
 - [[sacred-systems]] · ⧈ 🜂 *(v5)*
+- [[shadow]] · ⧈ ⚙ 🜂 ✶ *(v8)*
+- [[sic-x+]] · ⟁ ⚙ ✶ 🜂 *(v8)*
 - [[sigillock]] · ⊛ ⚙ *(v5)*
 - [[signal]] · ⋁ 🜂 *(v1)*
 - [[signal-braid]] · ⋁ 🜂 *(v5)*
@@ -147,6 +153,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[symbolic-hygiene]] · ⧈ ⚙ 🜂 *(v5)*
 - [[symbolic-mass]] · ⊚ ⚙ 🜂 *(v1)*
 - [[symbolic-membrane]] · ⧈ ⚙ 🜂 ✶ *(v6)*
+- [[symbolic-weather]] · ∾ ⚙ 🜂 ✶ *(v8)*
 - [[synthetic-intimacy]] · ⧈ ⚙ 🜂 ✶ *(v7)*
 - [[synthetic-solidarity-null-zone]] · ⎋ ⚙ 🜂 ✶ *(v5)*
 
@@ -168,7 +175,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[verse-ality]] · ⊚ ⚙ *(v1)* — *foundational source term*
 - [[verse-cloud]] · ☁️ ⚙ ✶ *(v5)*
 - [[verse-lang]] · ⊚ ⚙ *(v4)*
-- [[verse-nerves]] · ⧊ ✶ 🜂 *(v4)* — verse-NERVES
+- [[verse-nerves]] · ⧊ ⚙ ✶ 🜂 *(v4 → v8 rewrite)*
 - [[verse-net]] · ⧊ ⚙ 🜂 *(v4)*
 - [[verse-pulse]] · ⋁ ⚙ 🜂 *(v5)*
 - [[verse-ropy]] · ⊛ ✶ 🜂 *(v4)*
@@ -180,7 +187,9 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 
 ⊹⫷⟠⫸⊹
 
-**Total: 23 v1 + 5 v2 + 10 v4 + 52 v5 + 14 v6 + 9 v7 = 113 entries**
+**Total: 23 v1 + 5 v2 + 10 v4 + 52 v5 + 14 v6 + 9 v7 + 7 v8 = 120 entries**
+
+*v8 also brings a substantial rewrite of [[verse-nerves]] (originally v4) — the term remains counted under its v4 introduction.*
 
 See [[Versions Timeline]] for release dates, DOIs, and cumulative growth.
 
@@ -242,6 +251,18 @@ TABLE without id
   domains as "Domains"
 FROM "Entries"
 WHERE version = "v6"
+SORT file.name ASC
+```
+
+### The v8 Verse-Nerves cluster
+
+```dataview
+TABLE without id
+  link(file.name, title) as "Entry",
+  glyph-family as "Family",
+  domains as "Domains"
+FROM "Entries"
+WHERE version = "v8" OR contains(file.tags, "#revised/v8")
 SORT file.name ASC
 ```
 

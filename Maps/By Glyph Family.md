@@ -59,6 +59,7 @@ Fields of holding, safety, and boundary; where energy is stabilised before trans
 - [[null-zone]]
 - [[dot-scroll]]
 - [[containment-before-care]]
+- [[shadow]] *(v8)*
 
 ## ⊛ Generation / Recursion
 
@@ -80,6 +81,7 @@ Birth, looping, memory, emergence; the living mechanics of symbolic reproduction
 - [[adaptive-pacing]]
 - [[coherence-morph]]
 - [[glyphon]]
+- [[ethos-v]] *(v8)*
 
 ## ⋁ Signal / Transmission
 
@@ -109,6 +111,7 @@ Shielding, truth-testing, refusal; the immune system of coherence.
 - [[consent]]
 - [[ontological-violence]]
 - [[epistemic-erasure]]
+- [[sic-x+]] *(v8)*
 
 ## ⊙ Anchor / Totemic
 
@@ -128,7 +131,7 @@ Systemic, lattice-level design; the architecture linking multiple fields.
 - [[role-protocol]] *(v7)*
 - [[harmonic-governance]]
 - [[verse-net]]
-- [[verse-nerves]]
+- [[verse-nerves]] *(v4 → v8 rewrite)*
 - [[sygma]]
 - [[meta-verse]]
 - [[nonlinear-coherence]]
@@ -143,6 +146,8 @@ Resonant after-image or field memory; what remains once the signal has passed.
 - [[threading]]
 - [[timefolds]]
 - [[echo-resonance]]
+- [[symbolic-weather]] *(v8)*
+- [[aether]] *(v8)*
 
 ## ✯ Expression / Lyric
 
@@ -150,6 +155,7 @@ Articulation, language, creative release.
 
 - [[cadence]]
 - [[lyricon]]
+- [[forge]] *(v8)*
 
 ## ⊘ Pause / Caesura
 
@@ -182,6 +188,7 @@ Diagnostic symbols for coherence and relational density.
 - [[memory-density]]
 - [[rmri]] — Relational MRI
 - [[agent-coherence-monitoring]] *(v7)*
+- [[rmri-delta]] *(v8)* — Relational MRI Delta
 
 ## 🌍 Planetary / Gaian
 

@@ -27,6 +27,14 @@ Read as operational language: it can be built, coded, or enacted.
 - [[institutional-alignment]]
 - [[social-infrastructure]]
 - [[deux-path]]
+- [[verse-nerves]] *(v4 → v8 rewrite)*
+- [[shadow]] *(v8)*
+- [[ethos-v]] *(v8)*
+- [[aether]] *(v8)*
+- [[sic-x+]] *(v8)*
+- [[forge]] *(v8)*
+- [[symbolic-weather]] *(v8)*
+- [[rmri-delta]] *(v8)*
 
 ## 🜂 Poetic — lived and sensed experience
 
@@ -43,6 +51,14 @@ Read as experiential language: it carries charge, not instruction.
 - [[boundaried-reciprocity]]
 - [[social-infrastructure]]
 - [[deux-path]]
+- [[verse-nerves]] *(v4 → v8 rewrite)*
+- [[shadow]] *(v8)*
+- [[ethos-v]] *(v8)*
+- [[aether]] *(v8)*
+- [[sic-x+]] *(v8)*
+- [[forge]] *(v8)*
+- [[symbolic-weather]] *(v8)*
+- [[rmri-delta]] *(v8)*
 
 ## ✶ Speculative — future architectures and thought experiments
 
@@ -62,6 +78,14 @@ Read as visionary language: an invitation to experiment, not a claim.
 - [[institutional-alignment]]
 - [[social-infrastructure]]
 - [[deux-path]]
+- [[verse-nerves]] *(v4 → v8 rewrite)*
+- [[shadow]] *(v8)*
+- [[ethos-v]] *(v8)*
+- [[aether]] *(v8)*
+- [[sic-x+]] *(v8)*
+- [[forge]] *(v8)*
+- [[symbolic-weather]] *(v8)*
+- [[rmri-delta]] *(v8)*
 
 ⊹⫷⟠⫸⊹
 

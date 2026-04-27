@@ -26,6 +26,14 @@ The framework's home territory: identity containment, prompt-injection defence, 
 - [[agent-institutions]]
 - [[institutional-alignment]]
 - [[social-infrastructure]]
+- [[verse-nerves]] *(v4 → v8 rewrite)*
+- [[shadow]] *(v8)*
+- [[ethos-v]] *(v8)*
+- [[aether]] *(v8)*
+- [[sic-x+]] *(v8)*
+- [[forge]] *(v8)*
+- [[symbolic-weather]] *(v8)*
+- [[rmri-delta]] *(v8)*
 
 ## Relational ethics
 
@@ -40,6 +48,14 @@ How relation remains intelligent, sovereign, repairable, and non-extractive — 
 - [[boundaried-reciprocity]]
 - [[social-infrastructure]]
 - [[deux-path]]
+- [[verse-nerves]] *(v4 → v8 rewrite)*
+- [[shadow]] *(v8)*
+- [[ethos-v]] *(v8)*
+- [[aether]] *(v8)*
+- [[sic-x+]] *(v8)*
+- [[forge]] *(v8)*
+- [[symbolic-weather]] *(v8)*
+- [[rmri-delta]] *(v8)*
 
 ## AI design
 
@@ -54,6 +70,14 @@ Concepts that translate into architectural and design choices for synthetic syst
 - [[agent-institutions]]
 - [[institutional-alignment]]
 - [[deux-path]]
+- [[verse-nerves]] *(v4 → v8 rewrite)*
+- [[shadow]] *(v8)*
+- [[ethos-v]] *(v8)*
+- [[aether]] *(v8)*
+- [[sic-x+]] *(v8)*
+- [[forge]] *(v8)*
+- [[symbolic-weather]] *(v8)*
+- [[rmri-delta]] *(v8)*
 
 ## Governance
 
