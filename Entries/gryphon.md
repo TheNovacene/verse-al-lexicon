@@ -59,6 +59,8 @@ From mythic creature *gryphon* (Greek *gryps*, "hooked"), reimagined in contrast
 ## ⟡ Related Terms
 
 - [[glyphon]] — The porous, relational opposite of a gryphon.
+- [[protective-horizon]] — The relational field-state a gryphon may help form by hardening the symbolic membrane; the gryphon is the symbol, the protective horizon is what the field becomes.
+- [[extractive-horizon]] — The failure-mode counterpart; when a hardened symbol blocks return rather than preserving sovereignty.
 - [[sigillock]] — A symbol encoded with intentional access denial.
 - [[totem]] — A sacred symbol that may function as either glyphon or gryphon.
 - **Institutional glyph** — A category of gryphon often appearing in logos, seals, or uniforms.

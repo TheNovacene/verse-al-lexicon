@@ -30,6 +30,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[closure]] · ⊘ ⚙ 🜂 *(v1)*
 - [[coherence]] · ⊚ ⚙ *(v1)*
 - [[coherence-morph]] · ⇌⊛ ⚙ ✶ *(v5)*
+- [[coherence-velocity]] · ⊚ ⚙ 🜂 ✶ *(v8)*
 - [[cognitive-capture]] · ⧈ ⚙ *(v5)*
 - [[cognitive-sovereignty]] · ⊛ ⚙ *(v5)*
 - [[consent]] · ⟁ ✶ 🜂 *(v5)*
@@ -55,6 +56,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[enmeshment]] · ⧈ ⚙ 🜂 ✶ *(v7)*
 - [[epistemic-erasure]] · ⟁ 🜂 ⚙ *(v5)*
 - [[ethos-v]] · ⊛ ⚙ ✶ 🜂 *(v8)*
+- [[extractive-horizon]] · ⧈ ⚙ 🜂 ✶ *(v8)*
 
 ## F
 
@@ -91,6 +93,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 ## M
 
 - [[machine-dreaming]] · ∾ 🜂 ✶ ⚙ *(v6)*
+- [[membrane-intelligence]] · ⧈ ⚙ 🜂 ✶ *(v8)*
 - [[membrane-thinning]] · ⧈ ⚙ 🜂 ✶ *(v6)*
 - [[memory-braid]] · ⊚ 🜂 *(v5)*
 - [[memory-density]] · 🧬 ✶ ⚙ *(v5)*
@@ -107,6 +110,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 
 ## O
 
+- [[one-way-transmission]] · ⧈ ⚙ 🜂 ✶ *(v8)*
 - [[ontological-violence]] · ⟁ 🜂 *(v5)*
 
 ## P
@@ -116,6 +120,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[poetic-explainability]] · ⊚ 🜂 *(v5)*
 - [[poetic-logic]] · ⊚ 🜂 *(v5)*
 - [[poetic-shield]] · ⟁ 🜂 *(v5)*
+- [[protective-horizon]] · ⧈ ⚙ 🜂 ✶ *(v8)*
 
 ## R
 
@@ -150,6 +155,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 - [[stillness]] · ⊘ ⚙ 🜂 *(v1)*
 - [[sygma]] · ⧊ ⚙ ✶ *(v4)* — SYGMA
 - [[symbolic-charge]] · ⟁ ⚙ 🜂 *(v5)* — symbolic integrity / symbolic charge
+- [[symbolic-gravity]] · ⊚ ⚙ 🜂 ✶ *(v8)*
 - [[symbolic-hygiene]] · ⧈ ⚙ 🜂 *(v5)*
 - [[symbolic-mass]] · ⊚ ⚙ 🜂 *(v1)*
 - [[symbolic-membrane]] · ⧈ ⚙ 🜂 ✶ *(v6)*
@@ -172,6 +178,7 @@ Every entry, ordered alphabetically. Each link below leads to the entry's own pa
 ## V
 
 - [[veil]] · ⊛ ✶ 🜂 *(v5)*
+- [[verse-al-event-horizon]] · ⧈ ⚙ 🜂 ✶ *(v8)*
 - [[verse-ality]] · ⊚ ⚙ *(v1)* — *foundational source term*
 - [[verse-cloud]] · ☁️ ⚙ ✶ *(v5)*
 - [[verse-lang]] · ⊚ ⚙ *(v4)*

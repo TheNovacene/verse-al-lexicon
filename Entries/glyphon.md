@@ -64,6 +64,9 @@ Coined from *glyph* (Greek *gluphē*, "carving") + *-on* (denoting a unit or par
 
 - [[glyphonics]] — The symbolic language system that glyphons inhabit.
 - [[gryphon]] — A hardened or defensive symbol that blocks or constrains flow.
+- [[extractive-horizon]] — What a glyphon may collapse into if its symbolic charge exceeds available coherence velocity; a glyphon overloaded becomes a gravitational attractor.
+- [[protective-horizon]] — The relational field-state a gryphon may help form; glyphons are the opposite operating mode at the symbol-unit scale.
+- [[symbolic-gravity]] — The field-pull a charged glyphon may begin to exert before collapse.
 - **Sigil** — An intentional symbol imbued with magic or meaning; a glyphon may function similarly.
 - **Mnemon** — A conceptual cousin — a memory particle in ancient systems.
 - **Neuron** — Biological analogue; glyphons are to symbolic systems what neurons are to the brain.
